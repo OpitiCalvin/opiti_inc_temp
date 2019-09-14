@@ -90,7 +90,8 @@ body {
 ///////////////////////////////////////////////////////////////////////*/
 
 #header {
-	background: url(../img/bg/header-bg.jpg) no-repeat center top fixed;
+	/*background: url(../img/bg/header-bg.jpg) no-repeat center top fixed;*/
+	background: url(../img/bg/wordmap.jpg) no-repeat center top fixed;
 	background-size: cover;
 }
 
